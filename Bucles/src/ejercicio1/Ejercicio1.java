@@ -127,5 +127,9 @@ public class Ejercicio1 {
 		scn.close();
 
 	}
+	
+	public void metodo1() {
+		
+	}
 
 }
