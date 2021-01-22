@@ -12,7 +12,6 @@ public class Ejercicio1 {
 		int i = 0;
 		boolean salir = false;
 
-		// Mientras que no podamos salir del bucle.
 		while (!salir) {
 
 			// Solicitamos al usuario que introduzca el primer numero
