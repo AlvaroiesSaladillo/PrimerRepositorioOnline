@@ -128,13 +128,16 @@ public class Ejercicio1 {
 
 	}
 	
-	public void metodo1() {
+	public void metodo1() {//hola
 		
 	}
 	public void metodo2() {
 		
 	}
 	public void metodo3() {
+		
+	}
+public void metodo4() {
 		
 	}
 }
